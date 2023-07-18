@@ -20,9 +20,8 @@ pyAudioAnalysis is a Python library covering a wide range of audio analysis task
  * Apply dimensionality reduction to *visualize* audio data and content similarities
 
 ## Installation
- * Clone the source of this library: `git clone https://github.com/tyiannak/pyAudioAnalysis.git`
- * Install dependencies: `pip install -r ./requirements.txt `
- * Install using pip: `pip install -e .`
+ * Clone the source of this repo
+ * Install using pip (editable mode): `pip install -e .`
 
 ## An audio classification example
 > More examples and detailed tutorials can be found [at the wiki](https://github.com/tyiannak/pyAudioAnalysis/wiki)
