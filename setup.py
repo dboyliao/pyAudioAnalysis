@@ -17,5 +17,7 @@ setup(
         "hmmlearn",
         "imblearn",
         "plotly",
+        "matplotlib",
+        "pydub",
     ],
 )
